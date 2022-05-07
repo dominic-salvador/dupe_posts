@@ -11,4 +11,4 @@ A simple python program that duplicates a sentence that is previously mentioned,
 
 You can also run convert_seconds in Replit ⠕, a free online coding environment.
 
-[Try it now!](https://replit.com/@dominic-salvado/favegames) (start here!)
+[Try it now!](https://replit.com/@dominic-salvado/dupeposts) (start here!)
