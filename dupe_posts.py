@@ -2,7 +2,7 @@
 
 # write a program to automate 
 #  duplicate posting on social media:
-#  I love you (1...n)
+#  I love you (2...n)
 
 # program start #
 
