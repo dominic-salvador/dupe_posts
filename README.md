@@ -1,8 +1,8 @@
 # dupe_posts
-A simple python program to simulate a sentence that is previously mentioned that is commonly seen in social media.
+A simple python program that duplicates a sentence that is previously mentioned, which is a phenomenon commonly seen in social media.
 
 # Features
-- It appends (2...n) over a user supplied sentence and repeats it for a n times, oh yeah!
+- It appends (2...n) over a user supplied sentence and repeats it for n times, oh yeah!
 
 # Requirements
 - Python 3.x
