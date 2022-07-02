@@ -1,5 +1,5 @@
 # dupe_posts
-A simple python program that duplicates a sentence that is previously mentioned, which is a phenomenon commonly seen in social media.
+A simple python program that duplicates a sentence that is previously mentioned, which is a phenomenon commonly seen in social media and chatrooms.
 
 # Features
 - It appends 2...n over a user supplied sentence and repeats it for n times, oh yeah!
